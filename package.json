@@ -1,0 +1,26 @@
+{
+  "name": "files-walker",
+  "version": "1.0.0",
+  "description": "for nodejs! 指定条件(包含、不包含、后缀、前缀、正则等)遍历文件夹下所有的文件",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianlipp/files-walker.git"
+  },
+  "keywords": [
+    "file",
+    "dir",
+    "walker",
+    "get",
+    "files"
+  ],
+  "author": "qianlipp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianlipp/files-walker/issues"
+  },
+  "homepage": "https://github.com/qianlipp/files-walker#readme"
+}
